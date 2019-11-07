@@ -18,6 +18,7 @@ class App extends Component {
       <div className="App">
         <Input defaultInput={'Hello World!'}/>
         <Output />
+        <hr /> 
       </div>
     );
   }
